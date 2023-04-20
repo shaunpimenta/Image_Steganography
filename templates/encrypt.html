@@ -1,0 +1,32 @@
+<html>
+<head>
+    <link rel="stylesheet" href="../static/index.css">
+</head>
+<body>
+    
+    <div class="wrapper fadeInDown">
+    <div id="formContent">
+       
+
+      
+        <div class="fadeIn first">
+            <h2>Encrypt</h2>
+            <br>
+        </div>
+
+    
+        <form action="{{url_for('encrypt')}}" method="post" enctype="multipart/form-data">
+            <input type="text" id="pt" name="pt" class="fadeIn second"  placeholder="Enter the Plain Text">
+            <input type="password" id="key" name="key" class="fadeIn third"  placeholder="Enter the Secret key">
+           
+            <input type="file" id="img" name="file" accept="image/png, image/jpeg" class="fadeIn fourth" >
+            
+            <input type="submit" value="Encrypt" id="encrypt"/>
+        </form>
+
+        <p>Developed by Shaun Pimenta(9222), Charmi Tank(9234), Mahek Intwala(9423)</p>
+
+    </div>
+</div>
+</body>
+</html>
