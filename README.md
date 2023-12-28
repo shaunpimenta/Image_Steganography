@@ -5,3 +5,5 @@
 <img width="1264" alt="image" src="https://github.com/shaunpimenta/Image_Steganography/assets/83634457/feb775bd-913d-4940-8fad-9d9773be1b5b">
 
 <img width="1267" alt="image" src="https://github.com/shaunpimenta/Image_Steganography/assets/83634457/ae705a73-5e42-49a1-810c-dc6ef6b892f3">
+
+<img width="338" alt="image" src="https://github.com/shaunpimenta/Image_Steganography/assets/83634457/4eb208e2-a25d-4457-9297-0b0348702d25">
